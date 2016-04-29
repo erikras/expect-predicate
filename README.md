@@ -3,7 +3,7 @@
 [![NPM Version](https://img.shields.io/npm/v/expect-predicate.svg?style=flat-square)](https://www.npmjs.com/package/expect-predicate) 
 [![NPM Downloads](https://img.shields.io/npm/dm/expect-predicate.svg?style=flat-square)](https://www.npmjs.com/package/expect-predicate)
 [![Build Status](https://img.shields.io/travis/erikras/expect-predicate/master.svg?style=flat-square)](https://travis-ci.org/erikras/expect-predicate)
-[![devDependency Status](https://david-dm.org/erikras/expect-predicate/dev-status.svg)](https://david-dm.org/erikras/expect-predicate#info=devDependencies)
+[![codecov.io](https://codecov.io/github/erikras/expect-predicate/coverage.svg?branch=master)](https://codecov.io/github/erikras/expect-predicate?branch=master)
 
 [expect-predicate](https://github.com/erikras/expect-predicate) is an extension for
 [expect](https://github.com/mjackson/expect) that lets you test values against arbitrary
